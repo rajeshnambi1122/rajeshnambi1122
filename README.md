@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Rajesh Nambi and I am a Full Stack Web Development.</h3>
+<h3 align="left">My name is Rajesh Nambi and I am a Full Stack Web Developer.</h3>
 
 ###
 
