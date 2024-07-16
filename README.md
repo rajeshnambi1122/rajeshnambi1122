@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Frontend<br>🎯 Goals: To Learn Full Stack</p>
+<p align="left">✨ Creating bugs since 2024<br>
 
 ###
 
