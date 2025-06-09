@@ -1,5 +1,5 @@
 # 👋 Hey there! I’m **Rajesh Nambi**  
-### 👨‍💻 Software Engineer | Bug Hunter by Night | India-Based Coder ![Developer Vibes](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+### 👨‍💻 Software Engineer ![Developer Vibes](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ---
 
@@ -20,7 +20,7 @@
 I don’t just write code—I craft web magic using:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,bootstrap,tailwind,materialui,react,redux,angular,vue,nodejs,express,mongodb,mysql,git,vscode,bash,figma,framer,linux,azure" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,bootstrap,tailwind,materialui,react,redux,angular,vue,nodejs,express,mongodb,mysql,git,vscode,bash,figma,linux,azure" />
 </div>
 
 ---
@@ -56,19 +56,3 @@ I don’t just write code—I craft web magic using:
 - Diving into **DevOps** & cloud engineering  
 - Mastering the **backend** like I’m in my villain arc 😈  
 - Leveling up my Java & system design skills
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshnambi1122&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshnambi1122&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshnambi1122&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
