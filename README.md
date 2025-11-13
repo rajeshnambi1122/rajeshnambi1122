@@ -20,18 +20,18 @@
 I don’t just write code—I craft web magic using:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,bootstrap,tailwind,materialui,react,redux,angular,vue,nodejs,express,mongodb,mysql,git,vscode,bash,figma,linux,azure" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,bootstrap,tailwind,materialui,react,next,redux,angular,nodejs,express,mongodb,mysql,git,vscode,bash,figma,linux,azure,aws" />
 </div>
 
 ---
 
 ### 💻 Tech Playground
 
-- **Frontend**: React, Angular, Vue, HTML5, CSS3, Tailwind, MUI, Bootstrap  
+- **Frontend**: React, Next, Angular, HTML5, CSS3, Tailwind, MUI, Bootstrap
 - **Backend**: Node.js, Express  
-- **Database**: MongoDB, MySQL  
+- **Database**: MongoDB, MySQL, Postgres  
 - **Design/UI**: Figma, Framer  
-- **Other Tools**: Git, VS Code, Bash, Linux, Azure
+- **Other Tools**: Git, VS Code, Bash, Linux, Azure, AWS
 
 ---
 
