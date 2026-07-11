@@ -34,9 +34,6 @@ I don’t just write code—I craft web magic using:
 ### 🔗 Let’s Get Social
 
 <p align="left">
-  <a href="https://github.com/rajeshnambi1122" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
   <a href="https://leetcode.com/u/Jrjp0REPdl/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
   </a>
