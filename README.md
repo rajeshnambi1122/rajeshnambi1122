@@ -4,9 +4,7 @@
 ---
 
 ### 💡 About Me
-💻 I’m Rajesh Nambi S, a passionate Full Stack Developer and current MCA student, eager to build impactful web applications and grow in the tech industry. With hands-on experience in HTML, CSS, JavaScript, React, Next.js Angular, Node.js, Express, and SQL, I enjoy turning ideas into clean, responsive, and user-friendly solutions.
-
-🚀 I’ve developed multiple projects, from personal portfolio websites to functional apps, gaining practical exposure to front-end frameworks, back-end development, and database integration. I’m also exploring mobile app development with React Native, continuously expanding my skillset.
+💻 I Love to build 💖
 - 🔗 Portfolio's live 👉 [rajeshwebportfolio.vercel.app](https://rajeshwebportfolio.vercel.app)
 
 ---
@@ -20,17 +18,6 @@ I don’t just write code—I craft web magic using:
 </div>
 
 ---
-
-### 💻 Tech Playground
-
-- **Frontend**: React, Next, Angular, HTML5, CSS3, Tailwind, MUI, Bootstrap
-- **Backend**: Node.js, Express  
-- **Database**: MongoDB, MySQL, Postgres  
-- **Design/UI**: Figma, Framer  
-- **Other Tools**: Git, VS Code, Bash, Linux, Azure, AWS
-
----
-
 ### 🔗 Let’s Get Social
 
 <p align="left">
