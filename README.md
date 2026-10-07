@@ -21,15 +21,15 @@ I don’t just write code—I craft web magic using:
 
 <p align="left">
   <a href="https://leetcode.com/u/Jrjp0REPdl/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
+    <!-- Using Simple Icons CDN for the LeetCode logo in its brand color -->
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" alt="LeetCode" />
   </a>
   <a href="https://www.linkedin.com/in/rajesh-nambi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
   <a href="https://x.com/rajesh_nambi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
-  </a>
-  
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
+  </a>  
 </p>
 
 ---
