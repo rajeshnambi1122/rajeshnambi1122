@@ -1,9 +1,8 @@
 ## ![Developer Vibes](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey there! I’m **Rajesh Nambi**  
 
----
 
 💻Software Engineer, I Love to build 💖
-- 🔗 Portfolio's live 👉 [rajeshwebportfolio.vercel.app](https://rajeshwebportfolio.vercel.app)
+🔗 Portfolio's live 👉 [rajeshwebportfolio.vercel.app](https://rajeshwebportfolio.vercel.app)
 
 ---
 
