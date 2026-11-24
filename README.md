@@ -8,7 +8,7 @@
 
 ### 🧰 My Toolbox
 
-I don’t just write code—I craft web magic using:
+I don’t just write code, I craft web magic using:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,bootstrap,tailwind,materialui,react,nextjs,supabase,redux,angular,nodejs,express,mongodb,mysql,git,vscode,bash,figma,linux,azure,aws" />
